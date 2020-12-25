@@ -1,1 +1,2 @@
 this is first line of test file
+second line from new-feature-1 branch
