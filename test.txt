@@ -1,2 +1,6 @@
 this is first line of test file
+<<<<<<< HEAD
 second line from new-feature-1 branch
+=======
+this is from git-workshop-2 branch
+>>>>>>> git-workshop-2
